@@ -1,0 +1,42 @@
+[
+	{
+		"code": "COUNTRYLESS",
+		"value": 601874440
+	},
+	{
+		"code": "CY",
+		"value": 160
+	},
+	{
+		"code": "FR",
+		"value": 96
+	},
+	{
+		"code": "IL",
+		"value": 128
+	},
+	{
+		"code": "IT",
+		"value": 32
+	},
+	{
+		"code": "MU",
+		"value": 5355264
+	},
+	{
+		"code": "RO",
+		"value": 128
+	},
+	{
+		"code": "RU",
+		"value": 384
+	},
+	{
+		"code": "SE",
+		"value": 32
+	},
+	{
+		"code": "ZA",
+		"value": 256
+	}
+]

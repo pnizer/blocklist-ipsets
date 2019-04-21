@@ -1,0 +1,38 @@
+[
+	{
+		"name": "bi_any_0_1d",
+		"category": "attacks",
+		"ips": 33872,
+		"common": 1
+	},
+	{
+		"name": "bi_any_1_7d",
+		"category": "attacks",
+		"ips": 18569,
+		"common": 1
+	},
+	{
+		"name": "bi_sip_0_1d",
+		"category": "attacks",
+		"ips": 17,
+		"common": 1
+	},
+	{
+		"name": "bi_voip_0_1d",
+		"category": "attacks",
+		"ips": 70,
+		"common": 1
+	},
+	{
+		"name": "bi_voip_1_7d",
+		"category": "attacks",
+		"ips": 17,
+		"common": 1
+	},
+	{
+		"name": "voipbl",
+		"category": "attacks",
+		"ips": 77674,
+		"common": 1
+	}
+]

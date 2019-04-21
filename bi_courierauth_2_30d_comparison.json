@@ -1,0 +1,26 @@
+[
+	{
+		"name": "bi_mail_2_30d",
+		"category": "attacks",
+		"ips": 4670,
+		"common": 1
+	},
+	{
+		"name": "datacenters",
+		"category": "organizations",
+		"ips": 95959476,
+		"common": 1
+	},
+	{
+		"name": "dshield_30d",
+		"category": "attacks",
+		"ips": 23296,
+		"common": 1
+	},
+	{
+		"name": "firehol_level3",
+		"category": "attacks",
+		"ips": 42247,
+		"common": 1
+	}
+]
